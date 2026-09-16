@@ -1,0 +1,1 @@
+DALTOOL v132 static assets were validated in an isolated test branch before production promotion.
